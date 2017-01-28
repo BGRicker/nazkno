@@ -254,6 +254,13 @@ section{
 	min-height: 659px;
 }
 
+.log{
+	background-image: url(../images/weather.png);
+	height: 110%;
+	position: relative;
+	min-height: 659px;
+}
+
 .intro-box{
 	height: 100vh;
 	display: table;
